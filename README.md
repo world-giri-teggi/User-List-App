@@ -34,3 +34,5 @@ Prerequisites
 - Android Studio (Arctic Fox or newer)
 - Java 8+
 - Internet connection for API calls
+
+Credits Developed by TULASIGIRISH TEGGI 
