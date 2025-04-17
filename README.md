@@ -10,12 +10,7 @@ Features
 - 📄 Detailed user view on item click
 - 📡 API data fetching using OkHttp and Gson
 - 📸 Image loading using Glide
-
- Screenshots
-
-| User List | Search User | User Detail |
-|----------|-------------|-------------|
-| ![User List](screenshots/user_list.png) | ![Search](screenshots/search_user.png) | ![User Detail](screenshots/user_detail.png) |
+  
 
 Tech Stack
 
